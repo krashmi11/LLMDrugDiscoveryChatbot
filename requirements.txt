@@ -1,0 +1,10 @@
+tiktoken==0.4.0
+pypdf
+InstructorEmbedding
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+langchain==0.0.284
+text_generation
+python-dotenv==1.0.0
+streamlit==1.22.0
+protobuf~=3.19.0
